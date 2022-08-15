@@ -1,7 +1,8 @@
 
-You can change the number of classes of json file by using filter.py file
 
 # Filter
+
+You can change the number of classes of json file by using filter.py file
 filter.py allows you to filter an existing COCO Instances JSON file by categories.
 
 The following command will filter the input instances json to only include images and annotations for the categories person, dog, or cat:
